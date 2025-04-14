@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FoodZone-React/static/css/main.85813bc0.css",
+    "main.js": "/FoodZone-React/static/js/main.f5af354d.js",
+    "index.html": "/FoodZone-React/index.html",
+    "main.85813bc0.css.map": "/FoodZone-React/static/css/main.85813bc0.css.map",
+    "main.f5af354d.js.map": "/FoodZone-React/static/js/main.f5af354d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85813bc0.css",
+    "static/js/main.f5af354d.js"
+  ]
+}
