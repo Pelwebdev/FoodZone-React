@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/FoodZone-React/static/css/main.85813bc0.css",
-    "main.js": "/FoodZone-React/static/js/main.f5af354d.js",
+    "main.css": "/FoodZone-React/static/css/main.7393a2f3.css",
+    "main.js": "/FoodZone-React/static/js/main.88b92abd.js",
+    "static/media/bg.png": "/FoodZone-React/static/media/bg.a06cffe74be737fb1a14.png",
+    "static/media/logo.svg": "/FoodZone-React/static/media/logo.f56c4a06b72ab7ae93cc33ba1330de3c.svg",
     "index.html": "/FoodZone-React/index.html",
-    "main.85813bc0.css.map": "/FoodZone-React/static/css/main.85813bc0.css.map",
-    "main.f5af354d.js.map": "/FoodZone-React/static/js/main.f5af354d.js.map"
+    "main.7393a2f3.css.map": "/FoodZone-React/static/css/main.7393a2f3.css.map",
+    "main.88b92abd.js.map": "/FoodZone-React/static/js/main.88b92abd.js.map"
   },
   "entrypoints": [
-    "static/css/main.85813bc0.css",
-    "static/js/main.f5af354d.js"
+    "static/css/main.7393a2f3.css",
+    "static/js/main.88b92abd.js"
   ]
 }
