@@ -4,7 +4,7 @@ import { Button } from '../App';
 
 function Home({ filteredFood }) {
     return (
-        <FoodCardContainer>
+        <FoodCardContainer className='food-card-container'>
             <FoodCard>
                 {
                     filteredFood.map((food, index) => (
@@ -27,7 +27,6 @@ export default Home
 
 
 const FoodCardContainer = styled.button`
-background-image: url('/bg.png');
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
@@ -46,7 +45,7 @@ const FoodCard = styled.button`
     width: 340px;
     height: 167px;
     display: flex;
-    background-color: radial-gradient(90.16% 143.01% at 15.32% 21.04%, rgba(165, 229, 255, 0.2) 0%, rgba(110, 119, 244, 0.0447917) 77.08%, rgba(78, 114, 213, 0) 100%);
+    background-color: radial-gradient(90.16% 143.01% at 15.32% 21.04%, rgba(165, 229, 255, 0.2) 0%, rgba(110, 219, 244, 0.0447917) 77.08%, rgba(78, 214, 213, 0) 100%);
     background-blend-mode: overlay, normal;
     backdrop-filter: blur(13.1842px);
     border-radius: 19.4467px;

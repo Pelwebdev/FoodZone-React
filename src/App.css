@@ -9,3 +9,6 @@ body {
   color: #fff;
   font-family: "Inter", sans-serif;
 }
+.food-card-container {
+  background: url("../src/Component/bg.png") no-repeat center center/cover;
+}

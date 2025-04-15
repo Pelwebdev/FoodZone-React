@@ -4,6 +4,7 @@ import Home from './Component/Home';
 import { useState } from 'react';
 import { foodData } from './Component/FoodData';
 import { filterBtns } from './Component/FoodData';
+import logo_Image from '../src/logo.svg';
 
 function App() {
   const [searchTerm, setSearchTerm] = useState('');
@@ -34,7 +35,7 @@ function App() {
       <Container>
         <TopContainer>
           <div className="logo">
-            <img src="/logo.svg" alt="logo" />
+            <img src={logo_Image} alt="logo" />
           </div>
           <div className="search">
             <input
